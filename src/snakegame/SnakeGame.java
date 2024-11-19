@@ -5,7 +5,7 @@ import javax.swing.*;
 public class SnakeGame extends JFrame {
 
     SnakeGame() {
-        super("Snake Game");
+        super("Snake Game Error404");
         add(new Board());
         pack();
         //setSize(300,300);
